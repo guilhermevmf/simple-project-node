@@ -1,0 +1,7 @@
+{
+  "name": "sample-project-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guilherme Vinicius <gui.gf00@gmail.com>",
+  "license": "MIT"
+}
